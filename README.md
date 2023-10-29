@@ -1,2 +1,4 @@
-# KInderbuch
+# Kinderbuch
  
+Organisatorisches:
+<!-- hier aufgaben aufschreiben -->
