@@ -13,7 +13,7 @@ Weitere Aufagaben:
 
 Bitte eintragen wer welchen Layer übernehmen will:
 Kapitel 1: Gina
-Kapitel 2:
+Kapitel 2: Jana
 Kapitel 3: Maxime
 Kapitel 4:
 Kapitel 5:
