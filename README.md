@@ -12,9 +12,9 @@ Weitere Aufagaben:
 - Überblick behalten und verbindung zwischen kapiteln herstellen. Den roten faden spinnen.
 
 Bitte eintragen wer welchen Layer übernehmen will:
-Kapitel 1:
+Kapitel 1: Gina
 Kapitel 2:
-Kapitel 3:
+Kapitel 3: Maxime
 Kapitel 4:
 Kapitel 5:
 Kapitel 6:
