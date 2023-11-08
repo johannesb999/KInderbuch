@@ -19,5 +19,5 @@ Kapitel 4:
 Kapitel 5:
 Kapitel 6:
 Kapitel 7:
-Bilder Charaktere:
+Bilder Charaktere: Jannik
 Layouter:
